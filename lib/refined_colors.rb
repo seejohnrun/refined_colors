@@ -2,7 +2,7 @@ require_relative 'refined_colors/version'
 
 module RefinedColors
 
-  COLORS = [:black, :red, :green, :yellow, :magenta, :cyan, :white]
+  COLORS = [:black, :red, :green, :yellow, :blue, :magenta, :cyan, :white]
 
   refine String do
 
